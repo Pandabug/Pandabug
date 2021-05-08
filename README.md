@@ -34,7 +34,7 @@
 
 
 <img align="left" width="50%"  src="https://github-readme-stats.vercel.app/api?username=pandabug&show_icons=true&theme=tokyonight" />
-<img align="right" width="50%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandabug&theme=tokyonight&hide_langs_below=3" />
+<img align="left" width="50%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandabug&theme=tokyonight&hide_langs_below=3" />
 
 <hr>
 
