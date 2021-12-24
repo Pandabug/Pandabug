@@ -1,46 +1,89 @@
-<h1 align="center">Hi 👋, I'm Ivan-Vitaliy Bednarchuk</h1>
-
-<br>
-
-<h2 align="left">Languages and Tools:</h2>
-<p align="left">
-    <a href="https://www.w3schools.com/html/" target="_blank"> 
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black" />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> 
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=black" />
-    </a>
-    <a href="https://www.w3schools.com/js/" target="_blank"> 
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    </a>
-    <a href="https://www.python.org" target="_blank"> 
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black" />
-    </a>
-    <a href="https://flutter.dev" target="_blank"> 
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=black" />
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-            <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=black" />
-    </a>
-    <a href="https://www.w3schools.com/java/" target="_blank"> 
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black" />
-    </a>
-</p>
-
-<br>
-<br>
-<hr>
-<br>
+<div align="center">
+  <h1>Hi 👋, I'm Ivan-Vitaliy Bednarchuk</h1>
+</div>
 
 
-<img align="left" width="50%"  src="https://github-readme-stats.vercel.app/api?username=pandabug&show_icons=true&theme=tokyonight" />
+<h2>🤪 About</h2>
 
-<br>
+> Me & myself.
 
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandabug&theme=tokyonight&hide_langs_below=3" />
+- ⌨️ Often working on personal top secret projects.
+- 📚 I'm currently attending IT Highschool Grade 13.
+- ✨ Manga / Anime lover.
 
-<h3 align="left">Connect with me:</h3>
-<a href="https://www.instagram.com/ivan_____02/" target="blank">
-    <img align="center" src="https://www.svgrepo.com/show/13639/instagram.svg" height="30"
-    width="40" />
-</a>
+
+<h2>🌐 Socials</h2>
+
+> How to reach me.
+
+<!-- - <img src="https://www.svgrepo.com/show/157006/linkedin.svg" align='center' height="20" width="20" /> LinkedIn: [click me!](https://it.linkedin.com/in/ivan-vitaliy-bednarchuk-0b9a9a212/) -->
+- <img src="https://www.svgrepo.com/show/349527/telegram.svg" align='center' height="20" width="20" /> Telegram: [click me!](https://t.me/er_panda)
+- <img src="https://www.svgrepo.com/show/13639/instagram.svg" align='center' height="20" width="20" /> Instagram: [click me!](https://www.instagram.com/_ivan.2002_/)
+<!-- - <img src="https://www.svgrepo.com/show/349338/discord.svg" align='center' height="20" width="20" /> Discord: Gatchi#5728 -->
+
+
+<h2>🔨 Languages and Tools</h2>
+
+> Stuff I like to work with.
+
+<h3> Languages </h3>
+
+<div style='display: flex'>
+  <img src="./assets/c++.svg" width="42" alt="C++" /> &nbsp;
+  <img src="./assets/python.svg" width="42" alt="Python" /> &nbsp;
+  <img src="./assets/html.svg" width="42" alt="HTML" /> &nbsp;
+  <img src="./assets/css.svg" width="42" alt="CSS" /> &nbsp;
+  <img src="./assets/javascript.svg" width="42" alt="JavaScript" /> &nbsp;
+  <img src="./assets/typescript.svg" width="42" alt="TypeScript" /> &nbsp;
+  <img src="./assets/dart.svg" width="42" alt="Dart" /> &nbsp;
+  <img src="./assets/java.svg" width="42" alt="Java" /> &nbsp;
+  <img src="./assets/php.svg" width="42" alt="PHP" /> &nbsp;
+  <img src="./assets/sql.svg" width="42" alt="SQL" /> &nbsp;
+</div>
+  
+<h3> Frameworks and libraries </h3>
+
+<div style='display: flex'>
+  <img src="./assets/flutter.svg" width="42" alt="Flutter" /> &nbsp;
+  <img src="./assets/node.svg" width="42" alt="NodeJS" /> &nbsp;
+  <img src="./assets/express.svg" width="42" alt="Express" /> &nbsp;
+  <img src="./assets/react.svg" width="42" alt="React" /> &nbsp;
+  <img src="./assets/redux.svg" width="42" alt="Redux" /> &nbsp;
+  <img src="./assets/nextjs.svg" width="42" alt="NextJS" /> &nbsp;
+  <img src="./assets/soket.io.svg" width="42" alt="soket.io" /> &nbsp;
+  <img src="./assets/tailwindcss.svg" width="42" alt="TailwindCSS" /> &nbsp;
+  <img src="./assets/bootstrap.svg" width="42" alt="Bootstrap" /> &nbsp;
+</div>
+
+<h3> Databases </h3>
+
+<div style='display: flex'>
+  <img src="./assets/mongodb.svg" width="42" alt="MongoDB" /> &nbsp;
+  <img src="./assets/phpmyadmin.svg" width="84" alt="PhpMyAdmin" /> &nbsp;
+</div>
+  
+<h3> OS, softwares and tools </h3>
+
+<div style='display: flex'>
+  <img src="./assets/linux.svg" width="42" alt="Linux" /> &nbsp;
+  <img src="./assets/windows.svg" width="42" alt="Windows" /> &nbsp;
+  <img src="./assets/apple.svg" width="42" alt="Apple" /> &nbsp;
+  <img src="./assets/heroku.svg" width="42" alt="Heroku" /> &nbsp;
+  <img src="./assets/npm.svg" width="42" alt="NPM" /> &nbsp;
+  <img src="./assets/git.svg" width="42" alt="Git" /> &nbsp;
+  <img src="./assets/yarn.svg" width="42" alt="Yarn" /> &nbsp;
+  <img src="./assets/vscode.svg" width="42" alt="VSCode" /> &nbsp;
+</div>
+
+<br />
+
+<h2 style="display: flex; align-items: center;"><img src="./assets/github.png" width="37" alt="GitHub" /> &nbsp;GitHub</h2>
+
+> My github activity
+
+<br />
+
+<div align="center">
+  <img height="250px" src="https://github-readme-stats.vercel.app/api?username=pandabug&show_icons=true&theme=tokyonight" />
+  <img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandabug&theme=tokyonight&hide_langs_below=3" />
+</div>
