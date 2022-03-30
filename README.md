@@ -84,6 +84,6 @@
 <br />
 
 <div align="center">
-  <img height="250px" src="https://github-readme-stats.vercel.app/api?username=pandabug&show_icons=true&theme=tokyonight" />
-  <img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandabug&theme=tokyonight&hide_langs_below=3" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=pandabug&show_icons=true&theme=tokyonight" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandabug&theme=tokyonight&hide_langs_below=3" />
 </div>
